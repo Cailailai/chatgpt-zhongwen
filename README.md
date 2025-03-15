@@ -1,8 +1,8 @@
-# 国内访问指南：ChatGPT中文版（支持GPT-4，无需翻墙，无限使用GPT-4o和o1-preview）【25年3月13日更新】
+# 国内访问指南：ChatGPT中文版（支持GPT-4，无需翻墙，无限使用GPT-4o和GPT-o1、GPT-o3、Deepseek、Grok3）【25年3月13日更新】
 
 > 更新时间：2025/03/13
 
-全面体验 ChatGPT 中文版，无需翻墙，支持 GPT-4 和多功能应用！ 无限使用ChatGPT-4o和o1-preview ！！！
+全面体验 ChatGPT 中文版，无需翻墙，支持 GPT-4 和多功能应用！ 无限使用ChatGPT-4o和o1-preview、GPT-o1、GPT-o3、Deepseek、Grok3 ！！！
 
 本项目旨在为用户提供一站式的 ChatGPT 中文版使用指南，同时整理了国内可用的 ChatGPT镜像网站 和 官网使用教程，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
 
@@ -14,7 +14,7 @@ ChatGPT中文版 是 OpenAI 开发的 ChatGPT 模型的中文优化版本，专�
 
 **2.中文支持**：更流畅的中文对话能力，适合学习、办公和日常使用。
 
-**3.无限制使用4o和o1**：支持GPT-4，不受官网GPT-4o（每3小时80次）、o1频次（每周50次）的限制，无限使用GPT-4o和o1。
+**3.无限制使用4o和o1**：支持GPT-4，不受官网GPT-4o（每3小时80次）、o1频次（每周50次）的限制，无限使用GPT-4o和o1、GPT-o1、GPT-o3、Deepseek、Grok3。
 
 **4.功能全面**：ChatGPT中文版功能更全面，支持AI绘画、AI知识库、AI思维导图、AI文件、AI PPT等等实用功能，更适合国内用户使用~
 
@@ -35,7 +35,7 @@ ChatGPT中文版 是 OpenAI 开发的 ChatGPT 模型的中文优化版本，专�
 
 以下是我们精选的国内优质 ChatGPT 中文版镜像网站，为用户提供高效的中文访问体验：
 
-[https://songshugpt.com/](https://songshugpt.com/) - ChatGPT中文版，运营快2年，支持 GPT4、4o 以及 o1，支持 AI绘画，扫码就能用~
+[https://songshugpt.com/](https://songshugpt.com/) - ChatGPT中文版，运营快2年，支持 GPT4、4o 以及GPT-o1、GPT-o3、Deepseek、Grok3，支持 AI绘画，扫码就能用~
 
 [https://gptdog.online/](https://gptdog.online/) - ChatGPT镜像网站，运营快2年，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
 

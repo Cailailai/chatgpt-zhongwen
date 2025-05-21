@@ -1,4 +1,4 @@
-# 国内访问指南：ChatGPT中文版（支持GPT-4，无需翻墙，无限使用GPT-4o和GPT-o1、GPT-o3、Deepseek、Grok3）【25年5月20日更新】
+# 国内访问指南：ChatGPT中文版（支持GPT-4，无需翻墙，无限使用GPT-4o和GPT-o1、GPT-o3、Deepseek、Grok3）【25年5月22日更新】
 
 > 更新时间：2025/05/20
 
